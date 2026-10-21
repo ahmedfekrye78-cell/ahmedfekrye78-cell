@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="50" viewBox="0 0 176 50">
+  <rect x="1" y="1" width="174" height="48" rx="12" fill="#2C5364" stroke="#3d6e82" stroke-width="1"/>
+  <rect x="16" y="14" width="22" height="22" rx="5" fill="#ffffff"/>
+  <text x="27" y="30.5" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="13" fill="#2C5364" text-anchor="middle">in</text>
+  <text x="102" y="31" font-family="Verdana, Geneva, sans-serif" font-weight="bold" font-size="15" letter-spacing="1.5" fill="#ffffff" text-anchor="middle">LINKEDIN</text>
+</svg>
